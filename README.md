@@ -4,8 +4,8 @@
 <h2 align="center">Olá Mundo, sou Lucas e estou aprendendo Programação Web e Design Digital</h2>
 <div align="center">
   <a href="https://github.com/WeeaboEXP">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=weeaboexp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weeaboexp&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=weeaboexp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weeaboexp&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
