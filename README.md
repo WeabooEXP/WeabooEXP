@@ -1,4 +1,4 @@
-<h3 align="center">Olá Mundo, sou Lucas e estou aprendendo Programação Web e Design Digital</h3>
+<h3 align="center">▁ ▂ ▅ ▆ ▇ Olá Mundo, sou Lucas e estou aprendendo Programação Web e Design Digital ▇ ▆ ▅ ▂ ▁</h3>
 <img align="center" alt="Capa" height="cover" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92727434/139541997-cee90684-9922-4636-8f9f-5ba4b6ec713d.png">
 <div align="center">
   <a href="https://github.com/WeeaboEXP">
