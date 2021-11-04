@@ -1,4 +1,4 @@
-<h2 align="center">▁ ▂ ▅ Olá Mundo, sou Lucas e estudo Programação Web e Design Digital ▅ ▂ ▁</h2>
+<h2 align="center">▁ ▂ ▅ Olá Mundo, sou Lucas e estudo Programação e Design ▅ ▂ ▁</h2>
 <img align="center" alt="Capa" height="cover" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92727434/139541997-cee90684-9922-4636-8f9f-5ba4b6ec713d.png">
  
  ## 
@@ -6,7 +6,7 @@
 <div align="center">
  <img align="left" src="https://user-images.githubusercontent.com/92727434/140397553-dbbf1223-ac10-4e86-86c9-482692487186.gif">
  <h3>𝚂𝚘𝚋𝚛𝚎⠀𝚖𝚒𝚖</h3>
- <p>Sou Lucas Delmondes, tenho 16 anos e estudo na Etec de Sapopemba<br>cursando Desenvolvimento de Sistemas, estou aprendendo a programar<br>e editar fotos e vídeos no Photoshop e After Effects.<br><br>➥ Não trabalho no momento.<br><br>➥ Estudando em período matutino.<br><br>➥ Gosto de ver anime e ouvir música.<br><br>𝙳𝚒𝚜𝚌𝚘𝚛𝚍: 𝙲𝙻𝙰𝚄𝚂#𝟷𝟽𝟸𝟼</p>
+ <p>Sou Lucas Delmondes, tenho 16 anos e estudo na Etec de Sapopemba<br>cursando Desenvolvimento de Sistemas, estou aprendendo a programar<br>e editar fotos e vídeos no Photoshop e After Effects.<br><br>➥ Não trabalho no momento.<br><br>➥ Estudando em período matutino.<br><br>➥ Gosto de ver anime e ouvir música.<br>𝙳𝚒𝚜𝚌𝚘𝚛𝚍: 𝙲𝙻𝙰𝚄𝚂#𝟷𝟽𝟸𝟼</p>
 </div>
 
  ## 
