@@ -14,6 +14,7 @@
 <h2 align="center">𝐓𝐨𝐭𝐚𝐥 𝐝𝐞 𝐯𝐢𝐬𝐢𝐭𝐚𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥:⠀
   <img alingn="right" src="https://profile-counter.glitch.me/weeaboexp/count.svg">
 </h2>
+<br>
 <div align="center">
   <a href="https://github.com/WeeaboEXP">
   <img height="140m" src="https://github-readme-stats.vercel.app/api?username=weeaboexp&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
