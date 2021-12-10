@@ -4,15 +4,15 @@
  ## 
 <div align="center">
  <div align="center">
-  <img align="left" height="395px" src="https://user-images.githubusercontent.com/92727434/140616938-f8a2a7d9-4f89-42da-9e8a-73f59c475f07.gif">
+  <img align="right" height="460px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
   <h3>𝚂𝚘𝚋𝚛𝚎⠀𝚖𝚒𝚖</h3>
-  <p>Sou Lucas F. Delmondes, tenho 16 anos e estudo na Etec de Sapopemba<br>cursando Desenvolvimento de Sistemas, estou aprendendo a programar<br>sites e editar fotos e vídeos no Photoshop e After Effects.<br><br>➥ Não trabalho no momento.<br><br>➥ Estudando em período matutino.<br><br>➥ Gosto de ver animes e ouvir música.<br><br>➥ Made in São Paulo, Brasil.<br></p>
+  <p>Sou Lucas F. Delmondes, tenho 16 anos e estudo na Etec de Sapopemba<br>cursando Desenvolvimento de Sistemas, estou aprendendo a programar<br>em front-end e back-end enquanto estudo Design Digital editando <br> fotos e vídeos no Photoshop e After Effects.<br><br>➥ Não trabalho no momento.<br><br>➥ Estudando em período matutino.<br><br>➥ Gosto de ver animes e ouvir música.<br><br>➥ Made in São Paulo, Brasil.<br</p>
  </div>
  
  ##
- 
-<h3 align="center">VISITAS NO MEU PERFIL:⠀
-  <img alingn="right" src="https://profile-counter.glitch.me/weeaboexp/count.svg">
+
+<h3 align="center">VISITAS NO MEU PERFIL:
+  <img alingn="center" src="https://profile-counter.glitch.me/weeaboexp/count.svg">
 </h3>
 </div>
 
