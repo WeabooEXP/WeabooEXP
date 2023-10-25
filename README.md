@@ -1,10 +1,10 @@
 <h2 align="center">▁ ▂ ▄ ▅ 𝙊𝙡𝙖́, 𝙗𝙚𝙢-𝙫𝙞𝙣𝙙𝙤 𝙖𝙤 𝙢𝙚𝙪 𝙥𝙚𝙧𝙛𝙞𝙡 ▅ ▄ ▂ ▁</h2>
-<img align="center" alt="Capa" height="cover" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92727434/139541997-cee90684-9922-4636-8f9f-5ba4b6ec713d.png">
+<img align="center" alt="Capa" height="cover" style="border-radius:50 px;" src="https://user-images.githubusercontent.com/92727434/139541997-cee90684-9922-4636-8f9f-5ba4b6ec713d.png">
  
  ## 
 <div align="center">
  <div align="center">
-  <img align="right" height="450px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
+  <img align="right" height="430px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
   <h3>𝚂𝚘𝚋𝚛𝚎⠀𝚖𝚒𝚖</h3>
   <p>Sou Lucas A. Fernandes Delmondes, tenho 18 anos e estudo na Etec de<br>Sapopemba cursando Desenvolvimento de Sistemas, estou aprendendo<br>a programar em JavaScript,V Visual Basic e C-Sharp.<br><br>➥ Trabalhando no momento.<br><br>➥ Estudando em período matutino.<br><br>➥ Gosto de animes e academia.<br><br>➥ +55 (11) 95216-7792<br</p>
  </div>
