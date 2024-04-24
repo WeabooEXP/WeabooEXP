@@ -2,7 +2,7 @@
  
  ## 
 
-<img align="right" height="430px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
+<img align="right" height="420px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
 <div align="center" padding="10px" >
   <h3 >𝚂𝚘𝚋𝚛𝚎⠀𝚖𝚒𝚖</h3>
   <p>Eu sou Lucas A. F. Delmondes, tenho 18 anos e cursando Engenharia de Sotfware. Estou aprendendo a programar em JavaScript e C-Sharp.<br><br>➥ Disponível para estágios.<br><br>➥ Estudando em período matutino.<br><br>➥ Formado em ADS na Etec.</p>
@@ -20,7 +20,7 @@
 <br><br>
 <div align="center">
   <a href="https://github.com/WeeaboEXP">
-  <img height="130m" src="https://github-readme-stats.vercel.app/api?username=weeaboexp&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="130m" src="https://github-readme-stats.vercel.app/api?username=weabooexp&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="130m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weeaboexp&layout=compact&langs_count=7&theme=dark">
 </div>
 <div align="center" style="display: inline_block"><br>
