@@ -1,8 +1,9 @@
 <img align="center" alt="Capa" height="cover" style="border-radius:50 px;" src="https://user-images.githubusercontent.com/92727434/139541997-cee90684-9922-4636-8f9f-5ba4b6ec713d.png">
  
  ## 
-
-<img align="right" height="430px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
+<div>
+<img align="right" height="400px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
+</div>
 <div align="center" padding="10px" >
   <h3 >𝚂𝚘𝚋𝚛𝚎⠀𝚖𝚒𝚖</h3>
   <p>Eu sou Lucas Delmondes, tenho 18 anos e cursando Engenharia de Sotfware. <br> Estou aprendendo a programar em JavaScript e C-Sharp.<br><br>➥ Disponível para estágios.<br><br>➥ Estudando em período matutino.<br><br>➥ Formado em ADS na Etec.</p>
