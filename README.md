@@ -11,7 +11,6 @@
  ##
 <div align="center">
   <a href="https://github.com/WeabooEXP">
-  <img height="130m" src="https://github-readme-stats.vercel.app/api?username=weabooexp&show_icons=true&layout=compact&langs_count=7&theme=dark">
   <img height="130m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weabooexp&layout=compact&langs_count=7&theme=dark">
 </div>
 
