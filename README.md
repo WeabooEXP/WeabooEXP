@@ -1,21 +1,20 @@
 <img align="center" alt="Capa" height="cover" style="border-radius:50 px;" src="https://user-images.githubusercontent.com/92727434/139541997-cee90684-9922-4636-8f9f-5ba4b6ec713d.png">
  
- ## 
-<div>
+---
 <img align="right" height="400px" src="https://user-images.githubusercontent.com/92727434/145612299-67a4e04f-0eac-49ed-bde1-c50027bedf22.gif">
-</div>
-<div align="center" padding="10px" >
-  <h3 >𝚂𝚘𝚋𝚛𝚎⠀𝚖𝚒𝚖</h3>
-  <p>Eu sou Lucas Delmondes, tenho 18 anos e cursando Engenharia de Sotfware. <br> Estou aprendendo a programar em JavaScript e C-Sharp.<br><br>➥ Disponível para estágios.<br><br>➥ Estudando em período matutino.<br><br>➥ Formado em ADS na Etec.</p>
-  </div>
+
+# 𝐒𝐨𝐛𝐫𝐞 𝐌𝐢𝐦
+Eu sou Lucas Delmondes, tenho 18 anos e cursando Engenharia de Sotfware; <br> Estou aprendendo a programar em JavaScript e C-Sharp.
+- Disponível para estágios.
+- Estudando em período matutino.
+- Formado em ADS na Etec.
  
- ##
+---
 <div align="center">
-  <a href="https://github.com/WeabooEXP">
   <img height="130m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weabooexp&layout=compact&langs_count=7&theme=dark">
 </div>
 
-##
+---
 <div align="center" style="display: inline_block">
   <img align="center" alt="Claus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Claus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
